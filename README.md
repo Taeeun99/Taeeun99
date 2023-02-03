@@ -20,7 +20,7 @@
 ### 메추리알 <a href="https://github.com/A7-TC2-TeamCode200">(GitHub Link)</a>
 밥을 뭐먹을까? 하는 생각에서 시작된 메뉴 추천 시스템 입니다
 
-포 서비스 ➡️ https://mechurial.mrla.tk/ ⭐
+배포 서비스 ➡️ https://mechurial.mrla.tk/ ⭐
 
 <br>
 
@@ -31,7 +31,7 @@
 
 <br>
 
-## 🎨 음악 추천 서비스
+## 🎵 음악 추천 서비스
 ### MusicReco <a href="https://github.com/Carrotww/Recommend_service">(GitHub Link)</a>
 마음에 드는 장르를 골라 음악을 추천해주는 서비스 입니다.
 
